@@ -1,0 +1,46 @@
+{
+  "name": "gractor-new",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@vue/composition-api": "^1.0.0-rc.5",
+    "axios": "^0.21.1",
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.9.1",
+    "cors": "^2.8.5",
+    "d3": "^6.6.1",
+    "dotenv": "^8.2.0",
+    "echart": "^0.1.3",
+    "echarts": "^5.0.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.2",
+    "mqtt": "^4.2.6",
+    "nuxt": "^2.15.3",
+    "socket.io": "^4.0.0",
+    "socket.io-client": "^4.0.0",
+    "topojson": "^3.0.2",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "topojson-simplify": "^3.0.3",
+    "vue-echarts": "^6.0.0-rc.4",
+    "vue-quick-chat": "^1.2.8",
+    "vuex": "^3.6.2",
+    "vuex-persistedstate": "^4.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3",
+    "deepmerge": "^4.2.2",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1"
+  }
+}
